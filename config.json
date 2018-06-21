@@ -1,0 +1,11 @@
+{
+	"meida_type" : "I420",
+	"meida_width" : 704,
+	"meida_height" : 288,
+	"meida_sdp" : "",
+	"with_record" : false,
+	"show_width" : 320,
+	"show_height" : 240,
+	"show_large_width" : 720,
+	"show_large_height" : 480
+}
